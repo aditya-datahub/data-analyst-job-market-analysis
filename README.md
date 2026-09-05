@@ -2,6 +2,12 @@
 
 SQL + Python project analyzing 2,000+ Data Analyst job postings to uncover hiring trends, top companies, and salary patterns across US cities.
 
+## Problem statement
+
+Anyone applying for a Data Analyst role faces the same questions: Which companies are actually hiring the most? Which cities have the strongest demand? Does a company's reputation (its Glassdoor rating) actually translate into a better salary offer, or is that assumption wrong?
+
+This project answers those questions directly from data — cleaning a raw, messy job-postings dataset in SQL and analyzing it to surface concrete, evidence-backed answers instead of relying on general assumptions about the job market.
+
 ## Why this project
 
 I built this to refresh my SQL and Python fundamentals with a hands-on, end-to-end project — going from a raw, messy dataset to clean data to actual insights, the way a real analyst workflow looks.
